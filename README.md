@@ -1,1 +1,1 @@
-Is is a django based experimental web application which is now under construction
+It is a django based experimental web application which is now under construction
